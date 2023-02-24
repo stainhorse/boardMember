@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sample/board/BoardDAO.java" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sample/db/BDao.java" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sample/member/MemberDAO.java" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/mapper/content_mapper.xml" dialect="GenericSQL" />
+  </component>
+</project>
